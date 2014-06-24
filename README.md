@@ -16,6 +16,7 @@ AddressProject
 Implementation:
 ----------------------------
 -Project implemented in modules, consists of two modules
+	
 	- AddressBusinessModule : Contains business logic
 	- Persistance module : performs database operations
 	- Project can be extended with other module easily
@@ -62,6 +63,8 @@ Consists of following
 - jsp view
 - Controller servlet
 - pom.xml
+- https://github.com/ijaxahmed/ClientAddressProject.git
+- https://github.com/ijaxahmed/MavenClientAddressProject.git
 
 Resource folder AddressProject\resources
 ------------------------
